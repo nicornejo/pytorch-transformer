@@ -1,5 +1,5 @@
 # pytorch-transformer
-Attention is all you need implementation
+implementation of paper "Attention is all you need implementation"
 
-YouTube video with full step-by-step implementation: https://www.youtube.com/watch?v=ISNdQcPhsts
+Arxiv: https://arxiv.org/abs/1706.03762
 
